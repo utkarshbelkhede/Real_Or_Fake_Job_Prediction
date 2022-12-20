@@ -10,7 +10,7 @@ This Dataset was taken from Kaggle.
 
 It has **17880 rows** and **18 columns**.
 
-[Dataset Link](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction?select=fake_job_postings.csv)
+[Dataset Link](https://drive.google.com/file/d/1oNvbZLod123UhYbR8oqH7hPCc3n5CRan/view?usp=share_link)
 
 #### **Results**
 Got Higest Accuracy of 98%.
